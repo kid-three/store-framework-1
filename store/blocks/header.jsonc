@@ -74,7 +74,8 @@
     },
     "logo":{
         "props": {
-            "url": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/flatflat___6081e50402943bcb11bc45a8e613aa72.png"
+          "title": "titulo",
+          "url": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/flatflat___6081e50402943bcb11bc45a8e613aa72.png"
         }
     },
     "rich-text#header": {
