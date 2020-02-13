@@ -1,11 +1,11 @@
 {
     "store.custom#landing": {
         "blocks": [
-            "image#landingbanner", 
+            "image", 
             "search-result-layout.customQuery"
         ]
     },
-    "image#landingbanner": {
+    "image": {
         "props": {
             "src": "https://www.costco.com.mx/medias/sys_master/products/h60/h7a/11515284717598.jpg",
             "minWidth": "100% "
