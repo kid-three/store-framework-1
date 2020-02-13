@@ -1,13 +1,13 @@
 {
     "store.custom#landing": {
         "blocks": [
-            "image", 
+            "image#landingbanner",
             "search-result-layout.customQuery"
         ]
     },
-    "image": {
+    "image#landingbanner": {
         "props": {
-            "src": "https://www.costco.com.mx/medias/sys_master/products/h60/h7a/11515284717598.jpg",
+            "src": "https://www.ocu.org/-/media/ocu/images/home/vivienda%20y%20energia/equipamiento%20hogar/cambiar-electrodomesticos.jpg?rev=2ecf5b23-459b-4444-b883-9dc65462c2a9&mw=480&hash=C078F15611A3810B3C2B106D0C5CE165",
             "minWidth": "100% "
         }
     },
